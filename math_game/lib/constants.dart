@@ -7,4 +7,14 @@ class Constants{
                   fontSize: 32,
                   fontWeight: FontWeight.bold,
                   fontFamily: GoogleFonts.ubuntu().fontFamily);
+                  static final TextStyle titleText = TextStyle(
+                  color: Colors.white,
+                  fontSize: 40,
+                  fontWeight: FontWeight.bold,
+                  fontFamily: GoogleFonts.ubuntu().fontFamily);
+                  static final TextStyle nextText= TextStyle(
+                  color: Colors.white,
+                  fontSize: 20,
+                  fontWeight: FontWeight.bold,
+                  fontFamily: GoogleFonts.ubuntu().fontFamily);
 }
